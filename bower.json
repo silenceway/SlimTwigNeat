@@ -1,0 +1,22 @@
+{
+  "name": "SlimTwigNeat",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sunilkolla/SlimTwigNeat",
+  "authors": [
+    "Sunil Kolla <kolla.sunil@gmail.com>"
+  ],
+  "description": "Basic",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "neat": "~1.7.2",
+    "bourbon": "~4.2.4",
+    "normalize-css": "~3.0.3"
+  }
+}

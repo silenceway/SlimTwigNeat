@@ -1,0 +1,21 @@
+#ignores php vendor directory in root
+vendor
+
+# Local configuration
+*.log
+composer.lock
+public/*.log
+
+# Node modules
+node_modules
+.idea
+
+# Bower components
+bower_components
+
+# SASS cache
+.sass-cache
+public/.sass-cache
+
+#Dist Files
+dist/styles
